@@ -27,5 +27,5 @@ const playlist = [
     { artist: 'Sam Kramer', song: 'Vroom Vroom', url: 'assets/music/Vroom Vroom - Sam Kramer.mp3' },
     { artist: 'Wiz Khalifa', song: 'Roll Up', url: 'assets/music/Wiz Khalifa Roll Up.mp3' },
     { artist: 'Juice WRLD', song: 'Love Yourself', url: 'assets/music/☾Juice WRLD☽ ♛Love Yourself ♛.mp3' },
-    { artist: 'YNW Melly', song: 'Mama Cry', url: 'music/Mama Cry.mp3' }
+    { artist: 'YNW Melly', song: 'Mama Cry', url: 'https://github.com/gmodzdevs/SkyMusic/blob/main/music/Mama%20Cry.mp3' }
 ];
